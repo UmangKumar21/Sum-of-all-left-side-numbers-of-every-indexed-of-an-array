@@ -1,0 +1,1 @@
+# Sum-of-all-left-side-numbers-of-every-indexed-of-an-array
